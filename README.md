@@ -4,4 +4,5 @@ This is a simple ASR system that can classify your sound into pre-defined classe
 * Clone this repository `git clone https://github.com/Rithik-Alias/Automatic-Speech-Recognition-System.git`
 * First step is to get the data. Get the data from here : https://www.kaggle.com/c/tensorflow-speech-recognition-challenge
 * install the required libraries by running `pip install requirements.txt`
-* 
+* Download the data into the cloned repsitory
+* Open Main.ipynb and run all.

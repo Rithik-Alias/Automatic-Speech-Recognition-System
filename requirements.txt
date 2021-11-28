@@ -1,0 +1,5 @@
+librosa
+matplotlib
+keras
+tensorflow
+sounddevice
